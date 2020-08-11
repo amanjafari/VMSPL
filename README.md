@@ -1,5 +1,7 @@
 # Variability Modeling in Software Product Line: A systematic Literature Review.
-Due to page limitations, we share the reference of the selected papers on this page online.  
+Due to page limitations, we share the reference of the selected papers on this page online.
+
+--> The reference for selected studies in Table 2 is starting from 24. 
 
 References
 
