@@ -27,9 +27,13 @@ References
 20. Lanceloti, L. A., et al.: Smartyparser: a xmi parser for uml-based software product line variability models. In Proceedings of the Seventh International Workshop on Variability Modelling of Software-intensive Systems p. 10 (2013)
 21. Passos, L., et al.: Coevolution of variability models and related artifacts: a case study from the Linux kernel. In Proceedings of the 17th International Software Product Line Confer-ence, Tokyo, Japan, pp. 91-100 (2013)
 22. Schr, R., et al.: Feature-model interfaces: the highway to compositional analyses of highly-configurable systems. In Proceedings of the 38th International Conference on Software En-gineering, Austin, Texas, pp. 667-678 (2016)
-23. Nieke, M., Seidl, C., Schuster, S.: Guaranteeing Configuration Validity in Evolving Soft-ware Product Lines. In Proceedings of the Tenth International Workshop on Variability Modelling of Software-intensive Systems, Salvador, Brazil, pp. 73-80 (2016) 
-P01[24]. Maazoun, J., Bouassida, N., Abdallah, H. B.: Variability modeling with a SPL-UML pro-file. IEEE 14th SERA,  pp. 201-207 (2016) 
+23. Nieke, M., Seidl, C., Schuster, S.: Guaranteeing Configuration Validity in Evolving Soft-ware Product Lines. In Proceedings of the Tenth International Workshop on Variability Modelling of Software-intensive Systems, Salvador, Brazil, pp. 73-80 (2016)
+24. 
+
+P01[24]. Maazoun, J., Bouassida, N., Abdallah, H. B.: Variability modeling with a SPL-UML pro-file. IEEE 14th SERA,  pp. 201-207 (2016)
+
 P02[25]. Dhungana, D., et al.: Supporting the Evolution of Product Line Architectures with Variabil-ity Model Fragments. In: IEEE/IFIP Conference on Software Architecture, pp. 327-330 (2008)
+
 P03[26]. Martinez, J., et al.: Feature Relations Graphs: A Visualisation Paradigm for Feature Con-straints in Software Product Lines. In: 2014 Second IEEE Working Conference on Soft-ware Visualization, pp. 50-59 (2014)
 P04[27]. Carvalho, S. T., Murta, L., Loques, O.: Variabilities as first-class elements in product line architectures of homecare systems. In: SEHC, pp. 33-39 (2012)
 P05[28]. Elfaki, A. O., Phon-Amnuaisuk, S., Ho, C. K.: Modeling Variability in Software Product Line Using First Order Logic. In: SERA 2009, pp. 227-233 (2009)
