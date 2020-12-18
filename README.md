@@ -29,12 +29,12 @@ References
 22. Schr, R., et al.: Feature-model interfaces: the highway to compositional analyses of highly-configurable systems. In Proceedings of the 38th International Conference on Software En-gineering, Austin, Texas, pp. 667-678 (2016)
 23. Nieke, M., Seidl, C., Schuster, S.: Guaranteeing Configuration Validity in Evolving Soft-ware Product Lines. In Proceedings of the Tenth International Workshop on Variability Modelling of Software-intensive Systems, Salvador, Brazil, pp. 73-80 (2016)
  
-                                      <h2> <<Table 2 A comprehensive comparison of selected studies>> </h2>
+                                      <<Table 2 A comprehensive comparison of selected studies>>
       Please Note That in the main paper, we have made some numbering mistakes while referencing P15[38], P16[38] - P51[77], P52[77], and P57[81], P58[81]
                                     --> points to the same reference numbering  (ex. 77 and 77) but they are different papers.
 
 
-24[P01]. Maazoun, J., Bouassida, N., Abdallah, H. B.: Variability modeling with a SPL-UML pro-file. IEEE 14th SERA,  pp. 201-207 (2016) 
+P01[24]. Maazoun, J., Bouassida, N., Abdallah, H. B.: Variability modeling with a SPL-UML pro-file. IEEE 14th SERA,  pp. 201-207 (2016) 
 P02[25]. Dhungana, D., et al.: Supporting the Evolution of Product Line Architectures with Variabil-ity Model Fragments. In: IEEE/IFIP Conference on Software Architecture, pp. 327-330 (2008)
 P03[26]. Martinez, J., et al.: Feature Relations Graphs: A Visualisation Paradigm for Feature Con-straints in Software Product Lines. In: 2014 Second IEEE Working Conference on Soft-ware Visualization, pp. 50-59 (2014)
 P04[27]. Carvalho, S. T., Murta, L., Loques, O.: Variabilities as first-class elements in product line architectures of homecare systems. In: SEHC, pp. 33-39 (2012)
